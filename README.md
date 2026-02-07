@@ -1,55 +1,31 @@
 <!-- ================= HERO ================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:141E30,50:243B55,100:0F2027&text=MR.NICK&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Systems%20Engineer%20•%20Builder%20•%20Future%20Founder&descAlignY=60"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=MR.NICK&fontSize=65&fontColor=ffffff&stroke=00E5FF&animation=fadeIn&color=0:000428,50:004e92,100:000428"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=500&size=24&duration=2800&pause=800&color=38F9D7&center=true&vCenter=true&width=650&lines=Building+JARVIS;Engineering+Intelligent+Systems;Python+%7C+C;Startup-Minded+Developer"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=2500&pause=700&color=00E5FF&center=true&vCenter=true&width=750&lines=AI+SYSTEMS+ENGINEER;BUILDING+JARVIS;AUTOMATION+ARCHITECT;STARTUP-MINDED+DEVELOPER"/>
 </p>
-
----
-
-## 🚀 About Me
-
-⚡ Building a modular AI assistant (**JARVIS**)  
-⚡ Creating automation tools with Python  
-⚡ Developing a Blender workflow add-on  
-⚡ Exploring scalable digital products  
-
-> Focused on high-impact systems — not small scripts.
-
----
-
-## 🧠 Tech Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,c,cpp,git,linux,vscode&theme=dark"/>
-</p>
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=38F9D7&icon_color=38F9D7&text_color=9be9ff"/>
-  
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true&title_color=38F9D7&text_color=9be9ff"/>
-</p>
-
----
-
-## 🌌 Current Direction
-
-```text
-→ AI Systems
-→ Automation
-→ Scalable Products
-→ Startup Engineering
-```
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=0e75b6"/>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,linux,git,vscode,blender&perline=7"/>
 </p>
+
+---
+
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=00E5FF&icon_color=00E5FF&text_color=c9d1d9"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true&title_color=00E5FF&text_color=c9d1d9"/>
+</p>
+
+---
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=18&duration=4000&pause=1200&color=7DF9FF&center=true&vCenter=true&width=600&lines=Building+systems+that+scale;Engineering+intelligence;Future+startup+founder"/>
+</p>
+
+
