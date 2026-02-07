@@ -1,38 +1,39 @@
-<!-- ================= CYBER TERMINAL ENTRY ================= -->
+<!-- ================= PREMIUM ARCH HEADER ================= -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:000000,50:0f2027,100:203a43&text=NIKHIL&fontSize=70&fontColor=FFFFED&stroke=00FFF7&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=rounded&height=260&color=0:232526,100:414345&text=NIKHIL&fontSize=64&fontColor=ffffff&animation=fadeIn&desc=Python%20•%20C%20•%20Automation&descAlignY=65&descSize=18"/>
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=2400&pause=600&color=00FFF7&center=true&vCenter=true&width=750&lines=SYSTEM+INITIALIZING...;PYTHON+%7C+C;EDITING+ENTHUSIAST;ARTIST;"/>
-</p>
-
----
-
-```text
-> welcome to the workspace
-> Learning to build Full stack websites
-```
-
----
-
-## ⚡ CORE STACK
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,c,linux,git,vscode&perline=5"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3500&pause=1400&color=6C757D&center=true&vCenter=true&width=650&lines=Building+useful+things;Focused+on+precision;Learning+every+day"/>
 </p>
 
 ---
 
-## 🎨 CREATIVE SOFTWARE
+<br>
+
+## Tech
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=ps,ai,ae"/>
+  <img src="https://skillicons.dev/icons?i=python,c,linux,git,vscode&perline=5"/>
 </p>
 
 ---
 
+## Creative Tools
+
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:000000,100:203a43"/>
+  <img src="https://skillicons.dev/icons?i=ps,ai,ae"/>
+</p>
+
+---
+
+<br>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:232526,100:414345"/>
+</p>
+
+<p align="center">
+Quietly improving.
 </p>
