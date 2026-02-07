@@ -1,74 +1,11 @@
-<!-- ======================== GOD-TIER HERO ======================== -->
+<!-- ================= LIQUID GLASS HERO ================= -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=330&text=MR.NICK&fontSize=90&fontAlignY=38&animation=twinkling&fontColor=00FFD1&color=0:050505,25:0f2027,50:203a43,75:2c5364,100:00FFD1"/>
+<img src="https://capsule-render.vercel.app/api?type=rounded&height=320&text=MR.NICK&fontSize=80&fontAlignY=40&animation=fadeIn&fontColor=ffffff&color=0:EDEDED,50:D6E4F0,100:CFD9DF&desc=Software%20•%20Systems%20•%20Creative%20Engineering&descAlignY=65&descSize=18"/>
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=3000&pause=1000&color=00FFD1&center=true&vCenter=true&width=950&lines=SYSTEM+ONLINE;ENGINEERING+INTELLIGENCE;AUTOMATION+ARCHITECT;CREATING+WHAT+DOESN'T+EXIST"/>
-</p>
-
----
-
-# 
-
-<img align="right" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="260"/>
-
-### ▣ PROFILE_SCAN.exe
-
-```yaml
-identity: MR.NICK
-status: ACTIVE
-mindset: BUILDER
-focus:
-  - intelligent systems
-  - software engineering
-  - creative tooling
-signal_to_noise_ratio: extremely_high
-```
-
-<br><br><br>
-
----
-
-# ⚡ NEURAL STACK
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,c&theme=dark"/>
-</p>
-
----
-
-# 🎨 CREATIVE ENGINE
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=ps,ai,ae&theme=dark"/>
-</p>
-
----
-
-# 📡 LIVE SIGNAL
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=uNikhil-codes&show_icons=true&theme=tokyonight&hide_border=true&title_color=00FFD1&icon_color=00FFD1"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uNikhil-codes&layout=compact&theme=tokyonight&hide_border=true&title_color=00FFD1"/>
-</p>
-
----
-
-# 🧠 CONTRIBUTION MATRIX
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=uNikhil-codes&theme=tokyo-night&hide_border=true&line=00FFD1&point=FFFFFF"/>
-</p>
-
----
-
-# 🏆 SYSTEM ACHIEVEMENTS
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=uNikhil-codes&theme=matrix&no-frame=true&margin-w=15&margin-h=15&column=7"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&weight=500&size=26&duration=3500&pause=1200&color=8A8A8A&center=true&vCenter=true&width=750&lines=Designing+calm+technology;Built+with+precision;Less+noise.+More+signal."/>
 </p>
 
 ---
@@ -76,19 +13,57 @@ signal_to_noise_ratio: extremely_high
 <br>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=uNikhil-codes&style=for-the-badge&color=00FFD1"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:FFFFFF,100:DADADA"/>
 </p>
 
 ---
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00FFD1,100:050505"/>
-</p>
+# Core Technologies
 
 <p align="center">
-<i>> evolve • build • transcend</i>
+<img src="https://skillicons.dev/icons?i=python,c&theme=light"/>
 </p>
 
+---
+
+# Creative Tools
+
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:050505,100:00FFD1"/>
+<img src="https://skillicons.dev/icons?i=ps,ai,ae&theme=light"/>
+</p>
+
+---
+
+<br>
+
+<!-- ================= DYNAMIC ISLAND ================= -->
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rounded&height=90&width=420&text=SYSTEM%20STATUS%20%E2%97%8F%20ONLINE&fontSize=22&fontColor=ffffff&color=0:1f1f1f,100:3a3a3a"/>
+</p>
+
+---
+
+<br>
+
+# Activity
+
+<p align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=uNikhil-codes&show_icons=true&theme=default&hide_border=true&title_color=111111&icon_color=6E6E6E"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uNikhil-codes&layout=compact&theme=default&hide_border=true&title_color=111111"/>
+</p>
+
+---
+
+<br>
+
+<p align="center">
+<i>“Simplicity is the ultimate sophistication.”</i>
+</p>
+
+<br>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rounded&section=footer&height=120&color=0:EDEDED,100:CFD9DF"/>
 </p>
