@@ -51,5 +51,5 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=0e75b6"/>
+  <img src="https://komarev.com/ghpvc/?username=uNikhil-codes&style=for-the-badge&color=0e75b6"/>
 </p>
