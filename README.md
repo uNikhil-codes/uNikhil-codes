@@ -1,55 +1,31 @@
 <!-- ================= HERO ================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:141E30,50:243B55,100:0F2027&text=MR.NICK&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Systems%20Engineer%20•%20Builder%20•%20Future%20Founder&descAlignY=60"/>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=170&text=MR.NICK&fontSize=56&fontColor=0A192F&animation=fadeIn"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=500&size=24&duration=2800&pause=800&color=38F9D7&center=true&vCenter=true&width=650&lines=Building+JARVIS;Engineering+Intelligent+Systems;Python+%7C+C;Startup-Minded+Developer"/>
-</p>
-
----
-
-## 🚀 About Me
-
-⚡ Building a modular AI assistant (**JARVIS**)  
-⚡ Creating automation tools with Python  
-⚡ Developing a Blender workflow add-on  
-⚡ Exploring scalable digital products  
-
-> Focused on high-impact systems — not small scripts.
-
----
-
-## 🧠 Tech Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,c,cpp,git,linux,vscode&theme=dark"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2800&pause=900&color=3A86FF&center=true&vCenter=true&width=520&lines=Python+Developer;C+Programmer;Automation+Focused;Always+Learning"/>
 </p>
 
 ---
 
-## 📊 GitHub Analytics
+## Tech Stack
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=uNikhil-codes&show_icons=true&theme=transparent&hide_border=true&title_color=38F9D7&icon_color=38F9D7&text_color=9be9ff&cache_seconds=86400"/>
-
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uNikhil-codes&layout=compact&theme=transparent&hide_border=true&title_color=38F9D7&text_color=9be9ff&cache_seconds=86400"/>
+  <img src="https://skillicons.dev/icons?i=python,c&theme=light"/>
 </p>
 
 ---
 
-## 🌌 Current Direction
+## Software
 
-```text
-→ AI Systems
-→ Automation
-→ Scalable Products
-→ Startup Engineering
-```
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ae,ps,ai&theme=light"/>
+</p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=uNikhil-codes&style=for-the-badge&color=0e75b6"/>
+Minimal. Consistent. Improving every day.
 </p>
