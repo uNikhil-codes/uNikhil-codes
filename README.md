@@ -13,7 +13,7 @@
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c&theme=light"/>
+  <img src="https://skillicons.dev/icons?i=python,c,vscode&theme=light"/>
 </p>
 
 ---
