@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f2027,50:203a43,100:2c5364&text=MR.NICK%20//%20AI%20COMMAND%20CENTER&fontSize=38&fontAlignY=38&desc=Engineering%20Intelligence%20%7C%20Building%20Systems%20%7C%20Future%20Founder&descAlignY=60&animation=fadeIn" />
+</p>
 <!-- ========================================= -->
 <!--        JARVIS COMMAND CENTER README        -->
 <!-- ========================================= -->
