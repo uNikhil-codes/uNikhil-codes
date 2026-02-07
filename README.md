@@ -1,7 +1,7 @@
 <!-- ================= CYBER TERMINAL ENTRY ================= -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:000000,50:0f2027,100:203a43&text=NIKHIL&fontSize=70&fontColor=00FFF7&stroke=00FFF7&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:000000,50:0f2027,100:203a43&text=NIKHIL&fontSize=70&fontColor=FFFFED&stroke=00FFF7&animation=fadeIn"/>
 </p>
 
 <p align="center">
