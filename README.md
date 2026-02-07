@@ -1,35 +1,38 @@
-<!-- ================= PREMIUM HERO ================= -->
+<!-- ================= CYBER TERMINAL ENTRY ================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=220&text=MR.NICK&fontAlign=50&fontAlignY=50&fontSize=60&fontColor=ffffff&color=0:0f2027,100:2c5364"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:000000,50:0f2027,100:203a43&text=MR.NICK&fontSize=70&fontColor=00FFF7&stroke=00FFF7&animation=fadeIn"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3200&pause=1200&color=5BCDEC&center=true&vCenter=true&width=600&lines=Python+%7C+C;Automation+Focused;Building+Tools;Continuous+Improvement"/>
-</p>
-
----
-
-## ⚙️ Tech
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,linux,git,vscode&perline=5"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=2400&pause=600&color=00FFF7&center=true&vCenter=true&width=750&lines=SYSTEM+INITIALIZING...;PYTHON+%7C+C;AUTOMATION+ENTHUSIAST;BUILDING+COOL+THINGS"/>
 </p>
 
 ---
 
-## 🎨 Creative Tools
+```text
+> boot sequence complete
+> welcome to the workspace
+```
+
+---
+
+## ⚡ CORE STACK
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ps,ai,ae"/>
+<img src="https://skillicons.dev/icons?i=python,c,linux,git,vscode&perline=5"/>
+</p>
+
+---
+
+## 🎨 CREATIVE SOFTWARE
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=ps,ai,ae"/>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0f2027,100:2c5364"/>
-</p>
-
-<p align="center">
-Focused on learning, building, and getting better every iteration.
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:000000,100:203a43"/>
 </p>
