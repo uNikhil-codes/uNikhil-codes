@@ -1,31 +1,35 @@
-<!-- ================= HERO ================= -->
+<!-- ================= PREMIUM HERO ================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=170&text=MR.NICK&fontSize=56&fontColor=0A192F&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=220&text=MR.NICK&fontAlign=50&fontAlignY=50&fontSize=60&fontColor=ffffff&color=0:0f2027,100:2c5364"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2800&pause=900&color=3A86FF&center=true&vCenter=true&width=520&lines=Python+Developer;C+Programmer;Automation+Focused;Always+Learning"/>
-</p>
-
----
-
-## Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,vscode&theme=light"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3200&pause=1200&color=5BCDEC&center=true&vCenter=true&width=600&lines=Python+%7C+C;Automation+Focused;Building+Tools;Continuous+Improvement"/>
 </p>
 
 ---
 
-## Software
+## ⚙️ Tech
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ae,ps,ai&theme=light"/>
+  <img src="https://skillicons.dev/icons?i=python,c,linux,git,vscode&perline=5"/>
+</p>
+
+---
+
+## 🎨 Creative Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ps,ai,ae"/>
 </p>
 
 ---
 
 <p align="center">
-Minimal. Consistent. Improving every day.
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0f2027,100:2c5364"/>
+</p>
+
+<p align="center">
+Focused on learning, building, and getting better every iteration.
 </p>
