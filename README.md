@@ -11,8 +11,8 @@
 ---
 
 ```text
-> boot sequence complete
 > welcome to the workspace
+> Learning to build Full stack websites
 ```
 
 ---
