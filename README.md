@@ -1,25 +1,168 @@
-<h1 align="center">Hi 👋, I'm Nikhil</h1>
-<h3 align="center">A aspiring founder from India</h3>
+<!-- ========================================= -->
+<!--        JARVIS COMMAND CENTER README        -->
+<!-- ========================================= -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=unikhil-codes&label=Profile%20views&color=0e75b6&style=flat" alt="unikhil-codes" /> </p>
+<h1 align="center">
+⚡ MR.NICK // COMMAND NODE
+</h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=unikhil-codes" alt="unikhil-codes" /></a> </p>
-
-- 🌱 I’m currently learning **Building Saas Websites**
-
-- 📫 How to reach me **unikhil.official@gmail.com**
-
-- ⚡ Fun fact **Social Vegan**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+<em>Builder • Systems Thinker • AI Architect in Progress</em>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=unikhil-codes&show_icons=true&locale=en&layout=compact" alt="unikhil-codes" /></p>
+```text
+> Boot sequence initiated...
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=unikhil-codes&show_icons=true&locale=en" alt="unikhil-codes" /></p>
+Loading cognitive modules .......... OK
+Calibrating engineering focus ..... OK
+Detecting builder mindset ........ OK
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=unikhil-codes&" alt="unikhil-codes" /></p>
+Welcome to Command Node: MR.NICK
+Status: Constructing the Future
+```
+
+---
+
+# 🧠 SYSTEM DETECTED
+
+You are viewing the operational hub of an engineer focused on building intelligent systems, not just writing code.
+
+Primary directive:
+
+> **Design technology that thinks, adapts, and scales.**
+
+This profile is not a portfolio.
+
+It is an evolving lab.
+
+---
+
+# ⚙️ ACTIVE ARCHITECTURE
+
+```text
+                  ┌────────────────────┐
+                  │     JARVIS CORE     │
+                  │ Cognitive Engine    │
+                  └─────────┬──────────┘
+                            │
+        ┌───────────────────┼───────────────────┐
+        │                   │                   │
+┌─────────────┐   ┌────────────────┐   ┌────────────────┐
+│ AI Modules  │   │ Blender Systems │   │ Commerce Lab   │
+│ Python      │   │ Automation      │   │ Behavior Ops   │
+└─────────────┘   └────────────────┘   └────────────────┘
+```
+
+Future expansion is intentional.
+
+Great systems are engineered — not improvised.
+
+---
+
+# 🚀 PRIMARY MISSIONS
+
+## 🔹 JARVIS — Autonomous Assistant Framework
+> Building a modular AI assistant capable of learning workflows, analyzing data, and assisting decision-making.
+
+**Focus Areas**
+- Cognitive architecture  
+- Task automation  
+- Intelligence layering  
+- Long-term scalability  
+
+**Status:** Under active construction.
+
+---
+
+## 🔹 Blender Add-on — Workflow Acceleration Tool
+> Engineering a plugin designed to eliminate repetitive actions and compress creative time.
+
+**Why it matters:**  
+Speed is a creative advantage.
+
+**Stack**
+- Python  
+- Blender API  
+- Automation logic  
+
+---
+
+## 🔹 Commerce Systems Lab
+> Real-world experimentation in digital product dynamics, user psychology, and scalable storefront mechanics.
+
+Translated:
+
+I test ideas in live markets.
+
+Lessons from commerce directly influence how I design technical systems — efficiency, usability, and leverage.
+
+---
+
+# 🧬 SKILL MATRIX
+
+```text
+C                ███████████░░   Systems Thinking
+Python           █████████████░   Intelligence Building
+Automation       ███████████░░░   Workflow Design
+AI Direction     ██████████░░░░   Rapid Growth Zone
+Product Sense    ███████████░░░   Builder Advantage
+```
+
+Depth > breadth.
+
+Always.
+
+---
+
+# 🌌 CURRENT TRAJECTORY
+
+```text
+Phase 1  → Master the fundamentals of systems
+Phase 2  → Build intelligent tools
+Phase 3  → Architect scalable technology
+Phase 4  → Launch high-impact ventures
+```
+
+Not experimenting.
+
+Positioning.
+
+---
+
+# 🧭 ENGINEERING PHILOSOPHY
+
+> Build things that compound.
+
+Small scripts solve tasks.  
+Systems change leverage.  
+
+Choose systems.
+
+---
+
+# ⚡ SIGNAL
+
+Most people wait to feel ready.
+
+Builders start before confidence arrives.
+
+MR.NICK is currently in the accumulation phase.
+
+Velocity is increasing.
+
+---
+
+```text
+if (future == engineered)
+{
+    start_now();
+}
+```
+
+---
+
+<p align="center">
+<strong>Command Node Status: EXPANDING</strong>
+</p>
