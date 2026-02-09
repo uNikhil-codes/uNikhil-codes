@@ -20,3 +20,32 @@ Engineering std.<br>Entrepreneurship<br>Exploration
 
 ---
 [![](https://visitcount.itsvg.in/api?id=uNikhil-codes&icon=9&color=0)](https://visitcount.itsvg.in)
+
+
+<h2 align="center">My Github Statistics 🔥</h2>   
+<br>
+<p align="center">
+<a href="https://github.com/reddevill007">
+<img align="center" alt="Saurabh's Github stats"
+src="https://github-readme-stats.vercel.app/api?username=reddevill007&show_icons=true&bg_color=00000000"/>
+</a>
+   </p>
+ <br>
+  <p align="center"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=reddevill007&theme=onedark" alt="reddevill007" /> 
+  </a>
+</p>
+ <br>
+
+ <h2 align="center">My contribution Streak 🔥</h2>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=reddevill007&theme=cobalt&hide_border=true" alt="GitHub Streak" /></a>
+ 
+  <h2 align="center">Frequently used Language 📺</h2>
+<p align="center">
+  <a href="https://github.com/Iamtripathisatyam/github-readme-streak-stats">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=reddevill007&theme=dark&hide_border=true&background=22272e&stroke=0000"/>
+  </a>
+ </p>
+
+
