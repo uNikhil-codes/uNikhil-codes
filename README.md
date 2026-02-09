@@ -21,11 +21,3 @@ Engineering std.<br>Entrepreneurship<br>Exploration
 ---
 [![](https://visitcount.itsvg.in/api?id=uNikhil-codes&icon=9&color=0)](https://visitcount.itsvg.in)
 
-<h2 align="center">Frequently used Language 📺</h2>
-<p align="center">
-  <a href="https://github.com/Iamtripathisatyam/github-readme-streak-stats">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=uNikhil-codes&theme=dark&hide_border=true&background=22272e&stroke=0000"/>
-  </a>
- </p>
-
-
