@@ -20,15 +20,3 @@ Engineering std.<br>Entrepreneurship<br>Exploration
 
 ---
 [![](https://visitcount.itsvg.in/api?id=uNikhil-codes&icon=9&color=0)](https://visitcount.itsvg.in)
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=uNikhil-codes&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=uNikhil-codes&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=uNikhil-codes&show_icons=true" />
-</picture>
